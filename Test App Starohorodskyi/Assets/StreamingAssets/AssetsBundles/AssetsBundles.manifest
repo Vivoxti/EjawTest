@@ -1,0 +1,13 @@
+ManifestFileVersion: 0
+CRC: 3267121716
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: prefab/sphere
+      Dependencies: {}
+    Info_1:
+      Name: prefab/cube
+      Dependencies: {}
+    Info_2:
+      Name: prefab/capsule
+      Dependencies: {}
